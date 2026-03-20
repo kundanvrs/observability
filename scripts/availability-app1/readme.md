@@ -1,15 +1,15 @@
-# 📦 Production-Ready Uptime Monitoring System (Python)
+### 📦 Production-Ready Uptime Monitoring System (Python)
 
-# Project Structure:
-# uptime-monitor/
-# ├── app.py
-# ├── monitor.py
-# ├── database.py
-# ├── alert.py
-# ├── requirements.txt
-# └── config.py
+###  Project Structure:
+#### uptime-monitor/
+#### ├── app.py
+#### ├── monitor.py
+#### ├── database.py
+#### ├── alert.py
+#### ├── requirements.txt
+#### └── config.py
 
-# =========================
+**** =========================
 # How to Run
 # =========================
 # 1. Install dependencies

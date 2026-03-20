@@ -4,5 +4,6 @@ URLS = [
 ]
 CHECK_INTERVAL = 60  # seconds
 DB_NAME = "uptime.db"
-ALERT_EMAIL = "example@gmail.com"
+from_addr = "yourmail@gmail.com"
+to_addr = "targetmail@gmail.com"
 APP_PASS = "jhgd skjd sjdh"

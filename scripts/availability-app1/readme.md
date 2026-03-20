@@ -90,7 +90,15 @@ URLS = [
 CHECK_INTERVAL = 60  # seconds
 DB_NAME = "uptime.db"
 ```
+### ⚡ Create App Password
 
+Go to:
+👉 https://myaccount.google.com/apppasswords
+
+Select: Mail
+Device: Other → "uptime-monitor"
+👉 You’ll get something like:
+abcd efgh ijkl mnop
 ---
 
 ## 📊 Example Uptime Calculation
